@@ -11,9 +11,6 @@ We analyzed three primary physiological markers:
 2. **ECG/PPG (Heart Activity):** Used to track cardiac variability under pressure.
 3. **Skin Temperature:** Used to monitor thermal regulation during high-arousal states.
 
-### Joint Probability Analysis
-![Joint KDE Plot](./visualizations/your_joint_plot_name.png)
-*The plot above shows the "Stress Migration," where data points shift toward higher EDA values as psychological pressure increases.*
 
 ## ⚙️ Technical Implementation
 * **Dataset:** WESAD (Multimodal wearable sensor data).
